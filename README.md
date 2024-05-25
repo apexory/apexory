@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [E-Commerce Site](https://github.com/apexory/ecommerce-site)
 
-- 🌱 I’m currently learning React ***, Django ***, Celery, Redis
+- 🌱 I’m currently learning React ** * **, Django ** * **, Celery, Redis
 
 - 👨‍💻 All of my projects are available at [https://github.com/apexory/apexory](https://github.com/apexory/apexory)
 
