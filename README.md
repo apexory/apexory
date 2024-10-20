@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm apexory</h1>
-<h3 align="center">A educational fullstack developer.</h3>
+<h3 align="center">A junior+ fullstack developer.</h3>
 
 - 🔭 I’m currently working on [E-Commerce Site](https://github.com/apexory/ecommerce-site)
 
