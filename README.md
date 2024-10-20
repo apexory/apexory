@@ -10,9 +10,7 @@
 - 📫 How to reach me **rudamusic.soul@gmail.com**
 
 
-<a href="https://github.com/apexory" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=apexory&count_private=true&theme=radical" />
-</a>
+<p></p>
 
 <a target="_blank" href="https://reactjs.org/" target="_blank" style="display: inline-block;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="react" width="42" height="42" />
